@@ -1,1 +1,1 @@
-# MyPythonWork-ReDi_Homework1.06-
+# MyPythonWork-ReDi_Homework1.06
